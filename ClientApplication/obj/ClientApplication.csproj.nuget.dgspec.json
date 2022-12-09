@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/ClientApplication.csproj": {}
+    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ClientApplication/ClientApplication.csproj": {}
   },
   "projects": {
-    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/ClientApplication.csproj": {
+    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ClientApplication/ClientApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/ClientApplication.csproj",
+        "projectUniqueName": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ClientApplication/ClientApplication.csproj",
         "projectName": "ClientApplication",
-        "projectPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/ClientApplication.csproj",
+        "projectPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ClientApplication/ClientApplication.csproj",
         "packagesPath": "/Users/geo/.nuget/packages/",
-        "outputPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/",
+        "outputPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ClientApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/geo/.nuget/NuGet/NuGet.Config"

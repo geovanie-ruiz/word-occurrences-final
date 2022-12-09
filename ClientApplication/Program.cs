@@ -6,16 +6,17 @@ using System.IO;
 
 namespace Module11_Client {
     class Program {
-        public static void CheckIfPrime(Socket client, int number) {
+        public static void GetTopWords(Socket client, int number) {
             try {
                 byte[] sendmsg = Encoding.ASCII.GetBytes(number.ToString());
 
                 int n = client.Send(sendmsg);
 
                 byte[] data = new byte[client.ReceiveBufferSize];
+
                 int m = client.Receive(data);
 
-                Console.WriteLine("" + Encoding.ASCII.GetString(data));
+                Console.WriteLine(Encoding.ASCII.GetString(data));
             }
             catch (Exception e) {
                 Console.WriteLine(e.ToString());
@@ -31,14 +32,16 @@ namespace Module11_Client {
             client.Connect(ipEndpoint);
 
             while (true) {
-                Console.WriteLine("Enter a number to check if it's prime:");
+                Console.WriteLine("Get the top X occurrences wher X =");
                 var input = Console.ReadLine();
-                int numberToCheck = 0;
+                int limit = 0;
 
-                if (Int32.TryParse(input, out numberToCheck)) {
-                    Program.CheckIfPrime(client, numberToCheck);
+                if (Int32.TryParse(input, out limit) && limit > 0) {
+                    Program.GetTopWords(client, limit);
+                } else if (limit <= 0) {
+                    Console.WriteLine("Input must be greater than zero.\n");
                 } else {
-                    Console.WriteLine("Input is not a number. Try again.");
+                    Console.WriteLine("Input is not a number. Try again.\n");
                 }
             }
 

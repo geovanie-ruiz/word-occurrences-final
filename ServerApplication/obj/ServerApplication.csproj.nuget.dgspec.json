@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ServerApplication/ServerApplication.csproj": {}
+    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ServerApplication/ServerApplication.csproj": {}
   },
   "projects": {
-    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ServerApplication/ServerApplication.csproj": {
+    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ServerApplication/ServerApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ServerApplication/ServerApplication.csproj",
+        "projectUniqueName": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ServerApplication/ServerApplication.csproj",
         "projectName": "ServerApplication",
-        "projectPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ServerApplication/ServerApplication.csproj",
+        "projectPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ServerApplication/ServerApplication.csproj",
         "packagesPath": "/Users/geo/.nuget/packages/",
-        "outputPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ServerApplication/obj/",
+        "outputPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ServerApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/geo/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "htmlagilitypack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ppxI6r3/uXxMPS5FgzB0WkTW4gqS+uU5Jy67S9kwxe3YUGAMiKlk6nzlfsYUzu3UK3ZSs/QHRMyt1+h1ppmmLA==",
+  "dgSpecHash": "RiMRAqMwORtflDfgwxRyAucmEaoM163a2IkGfPRaVL0m7myTuWBqwukB9FQZenh1uRWzbRojVMjvWC16wnNMyg==",
   "success": true,
-  "projectFilePath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ServerApplication/ServerApplication.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Final/ServerApplication/ServerApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/geo/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512",
+    "/Users/geo/.nuget/packages/microsoft.data.sqlite/7.0.0/microsoft.data.sqlite.7.0.0.nupkg.sha512",
+    "/Users/geo/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
+    "/Users/geo/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/geo/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/geo/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/geo/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/geo/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
