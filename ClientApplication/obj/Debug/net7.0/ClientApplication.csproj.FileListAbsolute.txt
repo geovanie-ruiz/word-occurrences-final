@@ -1,0 +1,15 @@
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/bin/Debug/net7.0/ClientApplication
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/bin/Debug/net7.0/ClientApplication.deps.json
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/bin/Debug/net7.0/ClientApplication.runtimeconfig.json
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/bin/Debug/net7.0/ClientApplication.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/bin/Debug/net7.0/ClientApplication.pdb
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.csproj.AssemblyReference.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.AssemblyInfoInputs.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.AssemblyInfo.cs
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.csproj.CoreCompileInputs.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/refint/ClientApplication.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.pdb
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ClientApplication.genruntimeconfig.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module11/ClientApplication/obj/Debug/net7.0/ref/ClientApplication.dll
